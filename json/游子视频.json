@@ -1,0 +1,7 @@
+{
+    "简介": "【剧情】+&&",
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "分类url": "https://youzisp.tv/vodshow/{cateId}--------{catePg}---.html",
+    "分类": "电影$dianying#电视剧$dianshiju#纪录片$jilupian#动漫$dongman#综艺$zongyi"
+}
